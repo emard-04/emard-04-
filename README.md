@@ -90,15 +90,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </p>
-📈 My Github stats <br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emard-04&theme=dark&show_icons=true" alt="shwetangStats" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emard-04&layout=compact&theme=dark" alt="top-langs" />
-</p>
-</div>
-
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
   </div>
